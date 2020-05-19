@@ -1,0 +1,4 @@
+provider: generic
+url: 'https://resource.u-tools.cn/currentversion'
+channel: beta
+updaterCacheDirName: utools-updater
